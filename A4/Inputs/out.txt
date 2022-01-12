@@ -1,0 +1,70 @@
+p:	34  Without the least vestige of land:
+p:	47  He had bought a large map representing the sea,
+p:	34  The moment one looked in his face!
+a:	55  And the crew were much pleased when they found it to be
+a:	32  A map they could all understand.
+p:	47  Such solemnity, too! One could see he was wise,
+print_all: Insertion order
+	47 Such solemnity, too! One could see he was wise,
+	34 The moment one looked in his face!
+	47 He had bought a large map representing the sea,
+	34 Without the least vestige of land:
+	55 And the crew were much pleased when they found it to be
+	32 A map they could all understand.
+print_sort: Sorted order
+	32 A map they could all understand.
+	34 Without the least vestige of land:
+	34 The moment one looked in his face!
+	47 He had bought a large map representing the sea,
+	47 Such solemnity, too! One could see he was wise,
+	55 And the crew were much pleased when they found it to be
+size: List size = 6
+p:	47  Such solemnity, too! One could see he was wise,
+print_all: Insertion order
+	47 Such solemnity, too! One could see he was wise,
+	47 Such solemnity, too! One could see he was wise,
+	34 The moment one looked in his face!
+	47 He had bought a large map representing the sea,
+	34 Without the least vestige of land:
+	55 And the crew were much pleased when they found it to be
+	32 A map they could all understand.
+rem_first:	47  Such solemnity, too! One could see he was wise,
+print_all: Insertion order
+	47 Such solemnity, too! One could see he was wise,
+	34 The moment one looked in his face!
+	47 He had bought a large map representing the sea,
+	34 Without the least vestige of land:
+	55 And the crew were much pleased when they found it to be
+	32 A map they could all understand.
+p:	42  Such a carriage, such ease and such grace!
+p:	51  The Bellman himself they all praised to the skies--
+a:	51  The Bellman himself they all praised to the skies--
+a:	4  from
+a:	24  The Hunting of the Snark
+a:	36  Fit the Second: The Bellman's Speech
+print_all: Insertion order
+	51 The Bellman himself they all praised to the skies--
+	42 Such a carriage, such ease and such grace!
+	47 Such solemnity, too! One could see he was wise,
+	34 The moment one looked in his face!
+	47 He had bought a large map representing the sea,
+	34 Without the least vestige of land:
+	55 And the crew were much pleased when they found it to be
+	32 A map they could all understand.
+	51 The Bellman himself they all praised to the skies--
+	4 from
+	24 The Hunting of the Snark
+	36 Fit the Second: The Bellman's Speech
+rem_small:	55  And the crew were much pleased when they found it to be
+rem_large:	51  The Bellman himself they all praised to the skies--
+rem_small:	51  The Bellman himself they all praised to the skies--
+print_all: Insertion order
+	42 Such a carriage, such ease and such grace!
+	47 Such solemnity, too! One could see he was wise,
+	34 The moment one looked in his face!
+	47 He had bought a large map representing the sea,
+	34 Without the least vestige of land:
+	32 A map they could all understand.
+	4 from
+	24 The Hunting of the Snark
+	36 Fit the Second: The Bellman's Speech

@@ -1,0 +1,1 @@
+Created by Conor Roberts. Due on March 20th, 2020. Program is an example on how to manipulate linked lists. Prints a random list of a length given by the user, then prints the list in a variety of sorted ways.

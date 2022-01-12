@@ -1,0 +1,5 @@
+a 5 10
+a 9.9 11
+a 1.1 2
+remove_nth 1 INSERTED_ORDER
+print_all

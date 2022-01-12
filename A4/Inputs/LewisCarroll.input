@@ -1,0 +1,24 @@
+p  Without the least vestige of land:
+p  He had bought a large map representing the sea,
+p  The moment one looked in his face!
+a  And the crew were much pleased when they found it to be
+a  A map they could all understand.
+p  Such solemnity, too! One could see he was wise,
+print_all
+print_sort
+size
+p  Such solemnity, too! One could see he was wise,
+print_all
+rem_first
+print_all
+p  Such a carriage, such ease and such grace!
+p  The Bellman himself they all praised to the skies--
+a
+a  from
+a  The Hunting of the Snark
+a  Fit the Second: The Bellman's Speech
+print_all
+rem_small
+rem_large
+rem_small
+print_all

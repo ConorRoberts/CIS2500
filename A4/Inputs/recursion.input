@@ -1,0 +1,29 @@
+count_up    10
+count_down  10
+p   3.58    34
+p   2.14    47
+p   3.27    34
+a   2.23    55
+a   2.39    32
+p   3.29    47
+p   2.24    42
+p   2.6	    51
+a   3.12     2
+a   4.4      4
+a   3.01    24
+a   2.1     36
+print_all
+print_sort
+nth 3 INSERTED_ORDER
+nth 7 SORTED_ORDER
+nth 15 INSERTED_ORDER
+remove_nth 3 INSERTED_ORDER
+remove_nth 3 SORTED_ORDER
+remove_nth 0 INSERTED_ORDER
+remove_nth 0 SORTED_ORDER
+remove_nth 15 INSERTED_ORDER
+remove_nth 7 INSERTED_ORDER
+remove_nth 6 SORTED_ORDER
+a   5.5      5
+print_all
+print_sort
